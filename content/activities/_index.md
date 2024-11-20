@@ -49,20 +49,20 @@ header:
 </ul> -->
 
 <br><br>
-<b>Grant Reviewer: </b>
+<b>Grant Reviewers </b>
 <ul>
 <li>Education Research Funding Programme (ERFP), Ministry of Education, Singapore</li>
 </ul>
 
 
 <br><br>
-<b>Program Committee: </b>
+<b>Program Committees </b>
 <ul>
-<li>[Aera Chair] of MICCAI 2024</li>
-<li>[Corresponding Chair] of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
-<li>[Corresponding Chair] of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
-<li>[Corresponding Chair] of IJCAI 2023 Symposium Session on Medical Large Models</li> 
-<li>[Corresponding Chair] of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
+<li>**Aera Chair** of MICCAI 2024</li>
+<li>**Chair** of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
+<li>**Chair** of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
+<li>**Chair** of IJCAI 2023 Symposium Session on Medical Large Models</li> 
+<li>**Chair** of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
 <li>PC of International Joint Conference on Artificial Intelligence (IJCAI 2023&2024)</li> 
 <li>PC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)</li> 
 <li>PC of 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)</li> 
@@ -72,8 +72,8 @@ header:
 
 
 <br><br>
-<b>Regular Journal Reviewers: </b>
-<br><br>
+<b>Regular Journal Reviewers </b>
+<br>
 <ul>
 <li>Medical Image Analysis (MedIA)</li> 
 <li>IEEE Transactions on Medical Imaging (TMI)</li>
@@ -93,8 +93,7 @@ header:
 
 
 <br><br>
-<b>Regular Conference Reviewers: </b>
-<br><br>
+<b>Regular Conference Reviewers </b>
 <ul>
 <li>International Conf. on Medical Image Computing and Computer Assisted Interventions (MICCAI)</li>
 <li>The Conference on Neural Information Processing Systems (NeurIPS)</li>
@@ -111,33 +110,6 @@ header:
 </ul>
 
 
-
-
-<!-- <br><br>
-<b>Reviewer For: </b>
-<br><br>
-
-IEEE Transactions on Mobile Computing (TMC)
-
-ACM Transactions on Sensor Networks (TOSN)
-
-IEEE Transactions on Wireless Communication (TWC)
-
-IEEE Transactions on Dependable and Secure Computing (TDSC)
-
-IEEE Transactions on Information Forensics & Security (TIFS)
-
-IEEE Transactions on Automation Science and Engineering
-
-IEEE Transactions on Vehicular Technology (TVT)
-
-IEEE Transactions on Embedded Computing Systems
-
-IEEE Communications Magazine
-
-IEEE Internet of Things Journal
-
-etc -->
 
 
 <!-- <br><br>
