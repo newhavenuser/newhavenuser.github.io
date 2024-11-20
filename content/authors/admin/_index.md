@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include AI for Healthcare, Medical Foundation Models, Multimodal Learning, Medical Image Analysis, and Surgery Intervention Assistance.
 
 interests:
-- **AI for Healthcare**
-- **Medical Foundation Models**
-- **Multimodal Learning**
-- **Medical Image Analysis**
-- **Surgery Intervention Assistance**
+- AI for Healthcare
+- Medical Foundation Models
+- Multimodal Learning
+- Medical Image Analysis
+- Surgery Intervention Assistance
 
 
 education:
