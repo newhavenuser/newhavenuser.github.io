@@ -67,11 +67,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 I'm a **Senior Postdoctoral Associate** in the Department of Biomedical Informatics and Data Science at **Yale University**, working with Prof. [Qingyu Chen](https://medicine.yale.edu/profile/qingyu-chen/) and Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/). Prior to that, I worked as an **Assistant Professor** in Centre for Artificial Intelligence and Robotics (CAIR), Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences from 2022 to 2024. I received the Ph.D. degree in Electrical Engineering, City University of Hong Kong (CityU) in 2022 and worked as Postdoctoral Fellow, advised by Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm). I received the M.Phil. degree in Information Science, University of Science and Technology of China (USTC) in 2019, and the B.Eng. degree in Information Engineering, Xi'an Jiaotong University (XJTU) in 2016 with admission to XJTU-CASIA Automation Elite Class.
+</p>
 
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 My research interests focus on AI for Healthcare. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the **Hong Kong Young Scientist Award 2023**, as the only winner in the engineering field of Hong Kong.
+</p>
 
 
 <!-- Assistant Professor at the Department of Computer Science at City University of Hong Kong. I worked as a Postdoctoral Research Associate at University of New South Wales (UNSW) from June 2017 to August 2019.  I obtained my PhD degree from the University of Queensland in 2017 (advised by Prof. [Neil Bergmann](https://scholar.google.com.au/citations?user=M7kg0MQAAAAJ&hl=en) and Prof. [Wen Hu](https://scholar.google.com/citations?user=LKpTCwkAAAAJ&hl=en)).  I received my B.E. degree in Communication Engineering and M.E. degree in Communication and Information System both from the School of Information Science and Engineering, Shandong University (SDU) , China, in 2010 and 2013, respectively. I'm an IEEE Senior Member and a ACM Member.
