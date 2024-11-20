@@ -14,7 +14,7 @@ role: Senior Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: **Yale University**
+- name: <b>Yale University</b>
   url: "https://www.yale.edu/"
 
 # Short bio (displayed in user profile at end of posts)
