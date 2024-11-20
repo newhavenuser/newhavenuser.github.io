@@ -14,7 +14,7 @@ role: Senior Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: <b>Yale University</b>
+- name: Yale University
   url: "https://www.yale.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,9 +22,10 @@ bio: My research interests include AI for Healthcare, Medical Foundation Models,
 
 interests:
 - AI for Healthcare
+- Smart Healthcare Pipeline
 - Medical Foundation Models
-- Multimodal Learning
-- Medical Image Analysis
+- Multimodal Clinical Analysis
+- Medical Imaage Diagnosis
 - Surgery Intervention Assistance
 
 
@@ -72,7 +73,7 @@ I'm a <b>Senior Postdoctoral Associate</b> in the Department of Biomedical Infor
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-My research interests focus on <b>AI for Healthcare</b>b. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <b>Hong Kong Young Scientist Award 2023</b>, as the only winner in the engineering field of Hong Kong.
+My research interests focus on <b>AI for Healthcare</b>. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <b>Hong Kong Young Scientist Award 2023</b>, as the only winner in the engineering field of Hong Kong.
 </p>
 
 
