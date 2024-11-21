@@ -38,7 +38,7 @@
 
 [[main]]
   name = "Supervision"
-  url = "supervision/"
+  url = "students/"
   weight = 90
 
 # [[main]]
