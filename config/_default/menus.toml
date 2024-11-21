@@ -25,25 +25,30 @@
   weight = 40
 
 
-[[main]]
-  name = "Teaching"
-  url = "teaching/"
-  weight = 50
+# [[main]]
+#   name = "Teaching"
+#   url = "teaching/"
+#   weight = 50
 
 [[main]]
   name = "Awards"
   url = "awards/"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Students"
   url = "students/"
-  weight = 70
+  weight = 60
+
+# [[main]]
+#   name = "Recruitment"
+#   url = "recruitment/"
+#   weight = 80
 
 [[main]]
-  name = "Recruitment"
-  url = "recruitment/"
-  weight = 80
+  name = "Misc"
+  url = "Mics/"
+  weight = 70
 
 
 
