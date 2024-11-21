@@ -58,11 +58,11 @@ header:
 <br><br>
 <b>Program Committees </b>
 <ul>
-<li>**Aera Chair** of MICCAI 2024</li>
-<li>**Chair** of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
-<li>**Chair** of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
-<li>**Chair** of IJCAI 2023 Symposium Session on Medical Large Models</li> 
-<li>**Chair** of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
+<li><b>Aera Chair</b> of MICCAI 2024</li>
+<li><b>Chair</b> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
+<li><b>Chair</b> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
+<li><b>Chair</b> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
+<li><b>Chair</b> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
 <li>PC of International Joint Conference on Artificial Intelligence (IJCAI 2023&2024)</li> 
 <li>PC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)</li> 
 <li>PC of 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)</li> 
