@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[Nov 2024] <b>I move to BIDS, Yale School of Medicine, Yale University</b><br>
+[Nov 2024] <b>I move to Department of Biomedical Informatics and Data Science, Yale School of Medicine, Yale University</b><br>
 
 [Oct 2024] Our MICCAI 2024 Workshop on "Embodied AI and Robotics for HealTHcare" (EARTH) was held successfully at Marrakesh, Morocco<br>
 
