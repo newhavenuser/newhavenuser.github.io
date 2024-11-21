@@ -9,20 +9,16 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
-  url = "papers/"
+  name = "Research"
+  url = "research/"
   weight = 20
 
 
 [[main]]
-  name = "Projects"
-  url = "projects/"
+  name = "Publications"
+  url = "papers/"
   weight = 30
 
-[[main]]
-  name = "Activities"
-  url = "activities/"
-  weight = 40
 
 
 # [[main]]
@@ -33,11 +29,16 @@
 [[main]]
   name = "Awards"
   url = "awards/"
+  weight = 40
+
+[[main]]
+  name = "Activities"
+  url = "activities/"
   weight = 50
 
 [[main]]
-  name = "Students"
-  url = "students/"
+  name = "Supervision"
+  url = "supervision/"
   weight = 60
 
 # [[main]]
