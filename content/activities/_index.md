@@ -48,7 +48,7 @@ header:
 <li>2011-2012: Chairman of IEEE Shandong University Student Branch</li>
 </ul> -->
 
-<br><br>
+<br>
 <b>Grant Reviewers </b>
 <ul>
 <li>Education Research Funding Programme (ERFP), Ministry of Education, Singapore</li>
@@ -62,11 +62,11 @@ header:
 <li><b>Chair</b> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
 <li><b>Chair</b> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
 <li><b>Chair</b> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
-<li>PC of International Joint Conference on Artificial Intelligence (IJCAI 2023&2024)</li> 
-<li>PC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)</li> 
-<li>PC of 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)</li> 
-<li>PC of MICCAI Distributed, Collaborative and Federated Learning (DeCaF) Workshop (2022&2023)</li>
-<li>PC of MICCAI 2021 Deep Generative Models (DGM) Workshop</li> 
+<li>TPC of International Joint Conference on Artificial Intelligence (IJCAI 2023&2024)</li> 
+<li>TPC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)</li> 
+<li>TPC of 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)</li> 
+<li>TPC of MICCAI Distributed, Collaborative and Federated Learning (DeCaF) Workshop (2022&2023)</li>
+<li>TPC of MICCAI 2021 Deep Generative Models (DGM) Workshop</li> 
 </ul>
 
 <br>
