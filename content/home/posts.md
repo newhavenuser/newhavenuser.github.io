@@ -65,6 +65,46 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[Mov 2024] I move to BIDS, Yale School of Medicine, Yale University<br>
+
+[Jun 2024] Our paper "ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding" has been accepted by IROS 2024 as Oral<br>
+
+[Jun 2024] Five more papers accepted by MICCAI 2024<br>
+
+[May 2024] Two papers accepted by MedIA and TOMM<br>
+
+[May 2024] Our paper "MOST: Multi-Formation Soft Masking for Semi-Supervised Medical Image Segmentation" has been early accepted by MICCAI 2024<br>
+
+[Dec 2023] I Honorably won Hong Kong Young Scientist Award 2023, as the only awardee in the engineering field of Hong Kong<br>
+
+[Oct 2023] Our paper "Surgical Temporal Action-aware Network with Sequence Regularization for Phase Recognition" has been accepted by BIBM 2023<br>
+
+[Sep 2023] Two papers accepted by MedIA<br>	
+
+[Jun 2023] Our paper "Gradient and Feature Conformity-Steered Medical Image Classification with Noisy Labels" has been accepted by MICCAI 2023<br>	
+
+[Jun 2023] Our paper "" has been accepted by MedIA<br>	
+
+[May 2023] Two papers early accepted by MICCAI 2023 <br>
+
+[Oct 2022] I joined CAIR, HKISI-CAS as an Assistant Professor
+
+[Sep 2022] Our paper "Discrepancy and Gradient-guided Multi-Modal Knowledge Distillation for Pathological Glioma Grading" won MICCAI Society Young Scientist Award 2022. Congrats to <a href="https://hathawayxxh.github.io/">Dr. Xing</a>!<br>
+
+[Jul 2022] One paper accepted by TMI <br>
+
+[May 2022] Two papers accepted by MICCAI 2022. Congrats to Xiaohan and Qiushi! <br>
+
+[Apr 2022] Our paper "" has been accepted by MedIA <br>
+
+[Mar 2022] Our paper "" has been accepted by MedIA <br>
+
+[Feb 2022] Our paper "" has been accepted by MedIA <br>
+
+[Jan 2022] I passed the Ph.D. oral defense <br>
+
+
+
 *2024.08 Our paper "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions" received the Honorable Mention Award in MobileHCI 2024. Congrats to Aochen nd Di Duan!
 
 *2024.08 Our paper entitled "Seeing the Invisible: Recovering Surveillance Video with COTS mmWave Radar" has been accepted by IEEE Transactions on Mobile Computing. Congrats to Mingda!
