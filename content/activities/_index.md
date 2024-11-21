@@ -55,7 +55,7 @@ header:
 </ul>
 
 
-<br><br>
+
 <b>Program Committees </b>
 <ul>
 <li><b>Aera Chair</b> of MICCAI 2024</li>
