@@ -71,7 +71,6 @@ header:
 
 <br>
 <b>Regular Journal Reviewers </b>
-<br>
 <ul>
 <li>Medical Image Analysis (MedIA)</li> 
 <li>IEEE Transactions on Medical Imaging (TMI)</li>
