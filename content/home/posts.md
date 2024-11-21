@@ -67,7 +67,7 @@ subtitle = ""
 +++
 [Nov 2024] <b>I move to BIDS, Yale School of Medicine, Yale University</b><br>
 
-[May 2024] Our MICCAI 2024 Workshop on "Embodied AI and Robotics for HealTHcare" (EARTH) was held successfully at Marrakesh, Morocco<br>
+[Oct 2024] Our MICCAI 2024 Workshop on "Embodied AI and Robotics for HealTHcare" (EARTH) was held successfully at Marrakesh, Morocco<br>
 
 [Sep 2024] Our paper "Surgery Copilot" and "FedDCM" have been accepted by IEEE Big Data 2024<br>
 
