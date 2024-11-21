@@ -25,7 +25,7 @@ interests:
 - Smart Healthcare Pipeline
 - Medical Foundation Models
 - Multimodal Clinical Analysis
-- Medical Imaage Diagnosis
+- Medical Image Diagnosis
 - Surgery Intervention Assistance
 
 
