@@ -6,18 +6,18 @@
 [[main]]
   name = "Bio"
   url = "#about"
-  weight = 15
+  weight = 10
 
 [[main]]
   name = "Research"
   url = "projects/"
-  weight = 30
+  weight = 20
 
 
 [[main]]
   name = "Publications"
   url = "papers/"
-  weight = 45
+  weight = 30
 
 
 
@@ -29,17 +29,17 @@
 [[main]]
   name = "Awards"
   url = "awards/"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Activities"
   url = "activities/"
-  weight = 75
+  weight = 50
 
 [[main]]
   name = "Supervision"
   url = "students/"
-  weight = 90
+  weight = 60
 
 # [[main]]
 #   name = "Recruitment"
@@ -49,7 +49,7 @@
 [[main]]
   name = "Misc"
   url = "Mics/"
-  weight = 105
+  weight = 70
 
 
 
