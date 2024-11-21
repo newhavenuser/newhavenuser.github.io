@@ -64,7 +64,6 @@ header:
 <li><b>Chair</b> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
 <li>TPC of International Joint Conference on Artificial Intelligence (IJCAI 2023&2024)</li> 
 <li>TPC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)</li> 
-<li>TPC of 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)</li> 
 <li>TPC of MICCAI Distributed, Collaborative and Federated Learning (DeCaF) Workshop (2022&2023)</li>
 <li>TPC of MICCAI 2021 Deep Generative Models (DGM) Workshop</li> 
 </ul>
