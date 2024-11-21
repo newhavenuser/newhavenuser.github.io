@@ -54,8 +54,7 @@ header:
 <li>Education Research Funding Programme (ERFP), Ministry of Education, Singapore</li>
 </ul>
 
-
-
+<br>
 <b>Program Committees </b>
 <ul>
 <li><b>Aera Chair</b> of MICCAI 2024</li>
@@ -70,8 +69,7 @@ header:
 <li>PC of MICCAI 2021 Deep Generative Models (DGM) Workshop</li> 
 </ul>
 
-
-<br><br>
+<br>
 <b>Regular Journal Reviewers </b>
 <br>
 <ul>
@@ -91,8 +89,7 @@ header:
 <li>Neural Networks (NN)</li>
 </ul>
 
-
-<br><br>
+<br>
 <b>Regular Conference Reviewers </b>
 <ul>
 <li>International Conf. on Medical Image Computing and Computer Assisted Interventions (MICCAI)</li>
