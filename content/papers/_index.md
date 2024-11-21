@@ -92,8 +92,8 @@ header:
 <br>
 <ol>
 
-<li><b>[MICCAI'24 EARTH]</b> Wenwu Guo, Jinlin Wu, <b>Zhen Chen<sup>&#9993</sup></b>, Qingxiang Zhao, Miao Xu, Hongbin Liu, Zhen Lei. "SurgTrack: 3D Tracking of Real-world Surgical Instruments", International Conference on Medical Image Computing and Computer Assisted Interventions Workshop on Embodied AI and Robotics for Healthcare, Marrakesh, Moroccan, 2024. [<a href="https://arxiv.org/pdf/2409.02598">Paper</a>] [<a href="https://github.com/Wahaha-Code/SugicalTrack">Paper</a>]</li>
-<li><b>[ICRA'24 C4SR]</b> Rongfeng Wei, Jinlin Wu, Xuexue Bai, Ming Feng, Zhen Lei, Hongbin Liu, <b>Zhen Chen<sup>&#9993</sup></b>. "Weakly Supervised YOLO Network for Surgical Instrument Localization in Endoscopic Videos", IEEE International Conference on Robotics and Automation Workshop on C4 Surgical Robotic Systems in the Embodied AI Era, Yokohama, Japan, 2024. [<a href="https://arxiv.org/pdf/2309.13404">Paper</a>] [<a href="https://github.com/Breezewrf/WS-YOLO">Paper</a>]</li>
+<li><b>[MICCAI'24 EARTH]</b> Wenwu Guo, Jinlin Wu, <b>Zhen Chen<sup>&#9993</sup></b>, Qingxiang Zhao, Miao Xu, Hongbin Liu, Zhen Lei. "SurgTrack: 3D Tracking of Real-world Surgical Instruments", International Conference on Medical Image Computing and Computer Assisted Interventions Workshop on Embodied AI and Robotics for Healthcare, Marrakesh, Moroccan, 2024. [<a href="https://arxiv.org/pdf/2409.02598">Paper</a>] [<a href="https://github.com/Wahaha-Code/SugicalTrack">Code</a>]</li>
+<li><b>[ICRA'24 C4SR]</b> Rongfeng Wei, Jinlin Wu, Xuexue Bai, Ming Feng, Zhen Lei, Hongbin Liu, <b>Zhen Chen<sup>&#9993</sup></b>. "Weakly Supervised YOLO Network for Surgical Instrument Localization in Endoscopic Videos", IEEE International Conference on Robotics and Automation Workshop on C4 Surgical Robotic Systems in the Embodied AI Era, Yokohama, Japan, 2024. [<a href="https://arxiv.org/pdf/2309.13404">Paper</a>] [<a href="https://github.com/Breezewrf/WS-YOLO">Code</a>]</li>
 </ol>
 
 
