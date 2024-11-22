@@ -105,7 +105,10 @@ header:
 </ul>
 
 
-
+<div style="margin: 0 auto; text-align: center; overflow: hidden;"> 
+    <img src="workshop.png" width="1200px" height="600px">
+   Organize workshops on IJCAI-2023 Medical Large Models, ICRA-2024 C4SR+, and MICCAI-2024 EARTH
+</div>
 
 <!-- <br><br>
 <b>Invited Talks: </b>
