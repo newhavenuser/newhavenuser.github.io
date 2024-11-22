@@ -41,8 +41,8 @@ header:
 <img
   src="awards.png"
   alt="The awards of Hong Kong Young Scientist Award and MICCAI Young Scientist Award"
-  width="400"
-  height="341" />
+  width="1200"
+  height="600" />
 
 
              
