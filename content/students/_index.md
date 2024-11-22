@@ -20,7 +20,10 @@ header:
 </ul>
 <br>
 
-
+<div style="margin: 0 auto; text-align: center; overflow: hidden;"> 
+    <img src="copilot_team.png" width="1000px" height="500px">
+   Our research team to develop the multimodal surgery copilot system from zero to one
+</div>
 
 
 
