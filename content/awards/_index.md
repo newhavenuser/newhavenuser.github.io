@@ -36,9 +36,13 @@ header:
 <li> Wen-Yuan Pan Scholarship</li>
 <li> Siyuan Scholarship</li>
 <li> National Inspirational Scholarship</li>
-
-
 </ul>
+
+<img
+  src="awards.png"
+  alt="The awards of Hong Kong Young Scientist Award and MICCAI Young Scientist Award"
+  width="400"
+  height="341" />
 
 
              
