@@ -38,11 +38,17 @@ header:
 <li> National Inspirational Scholarship</li>
 </ul>
 
+<div style="margin: 0 auto; text-align: center; overflow: hidden;"> 
+    <a href="http://xyz.com/hello"><img src="awards.png" width="1000px" height="500px"></a>
+    The Hong Kong Young Scientist Award 2023 and MICCAI Young Scientist Award 2022
+</div>
+
 <img
   src="awards.png"
   alt="The awards of Hong Kong Young Scientist Award and MICCAI Young Scientist Award"
-  width="1200"
-  height="600" />
+  <figcaption>Caption goes here</figcaption>
+  width="1000"
+  height="500" />
 
 
              
