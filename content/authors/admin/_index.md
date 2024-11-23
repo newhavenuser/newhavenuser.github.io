@@ -34,7 +34,6 @@ education:
   - course: Ph.D. in Electrical Engineering
     institution: City University of Hong Kong
     year: 2022
-    {style="color: red"}
   - course: M.Phil. in Information Science
     institution: University of Science and Technology of China
     year: 2019
