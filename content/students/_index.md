@@ -21,7 +21,7 @@ header:
 <br>
 
 <div style="margin: 0 auto; text-align: center; overflow: hidden;"> 
-    <img src="copilot_team.png" width="1000px" height="500px">
+    <img src="copilot_team.jpg" width="800px" height="400px">
    Our research team to develop the multimodal surgery copilot system from zero to one
 </div>
 
