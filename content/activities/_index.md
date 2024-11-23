@@ -82,9 +82,9 @@ header:
 <li>IEEE Transactions on Computational Imaging (TCI)</li> 
 <li>IEEE Transactions on Audio, Speech and Language Processing (TASL)</li> 
 <li>IEEE Journal of Biomedical and Health Informatics (JBHI)</li> 
-<li>IEEE Open Journal of Engineering in Medicine and Biology (OJEMB)</li> 
+<li>IEEE Open Journal of Engineering in Medicine and Biology</li> 
 <li>Artificial Intelligence in Medicine</li> 
-<li>Neural Networks (NN)</li>
+<li>Neural Networks</li>
 </ul>
 
 <br>
