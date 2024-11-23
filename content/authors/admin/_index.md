@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI for Healthcare, Medical Foundation Models, Multimodal Learning, Medical Image Analysis, and Surgery Intervention Assistance.
 
-##interests:
+##interests:##
 - AI for Healthcare
 - Smart Healthcare Pipeline
 - Medical Foundation Models
@@ -29,7 +29,7 @@ bio: My research interests include AI for Healthcare, Medical Foundation Models,
 - Surgery Intervention Assistance
 
 
-##education:
+##education:##
   courses:
   - course: Ph.D. in Electrical Engineering
     institution: City University of Hong Kong
