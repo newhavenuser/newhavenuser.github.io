@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI for Healthcare, Medical Foundation Models, Multimodal Learning, Medical Image Analysis, and Surgery Intervention Assistance.
 
-interests:
+##interests:
 - AI for Healthcare
 - Smart Healthcare Pipeline
 - Medical Foundation Models
@@ -29,11 +29,12 @@ interests:
 - Surgery Intervention Assistance
 
 
-education:
+##education:
   courses:
   - course: Ph.D. in Electrical Engineering
     institution: City University of Hong Kong
     year: 2022
+    {style="color: red"}
   - course: M.Phil. in Information Science
     institution: University of Science and Technology of China
     year: 2019
@@ -45,7 +46,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+#social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:zhen.chen@yale.edu"  # For a direct email link, use "mailto:test@example.org".
