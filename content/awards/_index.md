@@ -39,7 +39,7 @@ header:
 </ul>
 
 <div style="margin: 0 auto; text-align: center; overflow: hidden;"> 
-    <img src="awards.png" width="1000px" height="500px">
+    <img src="awards.jpg" width="1000px" height="500px">
    The Hong Kong Young Scientist Award 2023 and MICCAI Young Scientist Award 2022
 </div>
 
