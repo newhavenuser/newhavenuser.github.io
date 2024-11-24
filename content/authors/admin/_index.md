@@ -90,7 +90,7 @@ color: blue;
 </style>
 <style>
 span3 {
-color: blue;
+color: red;
  }
 </style>
 
