@@ -9,8 +9,7 @@ header:
 ---
 
 <br>
-<b>Alumni</b> (last known position)
-<br>
+<h2><b>Alumni</b></h2>h2 (last known position)
 <ul>
 <li><a href="https://helenypzhang.github.io/">Yupei Zhang</a> (RA, 2022-2024; PhD candidate at University of Cambridge)</li>
 <li><a href="https://scholar.google.com/citations?hl=zh-CN&user=IzA-Ij8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate">Qing Xu</a> (RA, 2023-2024; PhD candidate at The University of Nottingham Ningbo China)</li>
