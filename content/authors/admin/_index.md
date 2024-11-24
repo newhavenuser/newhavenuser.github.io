@@ -69,11 +69,11 @@ user_groups:
 - Visitors
 ---
 <p style="text-align:justify;text-justify:inter-ideograph;">
-I'm a <span2><b>Senior Postdoctoral Associate</b><span2> in the Department of Biomedical Informatics and Data Science at <span2><b>Yale University</b><span2>, working with Prof. <a href="https://medicine.yale.edu/profile/qingyu-chen/">Qingyu Chen</a> and Prof. <a href="https://medicine.yale.edu/profile/hua-xu/">Hua Xu</a>. Prior to that, I worked as an <span2><b>Assistant Professor</b><span2> in Centre for Artificial Intelligence and Robotics (CAIR), Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences from 2022 to 2024. I received the Ph.D. degree in Electrical Engineering, City University of Hong Kong (CityU) in 2022 and worked as Postdoctoral Fellow, advised by Prof. <a href="https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm">Yixuan Yuan</a>. I received the M.Phil. degree in Information Science, University of Science and Technology of China (USTC) in 2019, and the B.Eng. degree in Information Engineering, Xi'an Jiaotong University (XJTU) in 2016 with admission to XJTU-CASIA Automation Elite Class.
+I'm a <span2><b>Senior Postdoctoral Associate</b></span2> in the Department of Biomedical Informatics and Data Science at <span2><b>Yale University</b></span2>, working with Prof. <a href="https://medicine.yale.edu/profile/qingyu-chen/">Qingyu Chen</a> and Prof. <a href="https://medicine.yale.edu/profile/hua-xu/">Hua Xu</a>. Prior to that, I worked as an <span2><b>Assistant Professor</b></span2> in Centre for Artificial Intelligence and Robotics (CAIR), Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences from 2022 to 2024. I received the Ph.D. degree in Electrical Engineering, City University of Hong Kong (CityU) in 2022 and worked as Postdoctoral Fellow, advised by Prof. <a href="https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm">Yixuan Yuan</a>. I received the M.Phil. degree in Information Science, University of Science and Technology of China (USTC) in 2019, and the B.Eng. degree in Information Engineering, Xi'an Jiaotong University (XJTU) in 2016 with admission to XJTU-CASIA Automation Elite Class.
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-My research interests focus on <span2><b>AI for Healthcare</b><span2>. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <span2><b>Hong Kong Young Scientist Award 2023</b><span2>, as the only winner in the engineering field of Hong Kong.
+My research interests focus on <span2><b>AI for Healthcare</b></span2>. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <span2><b>Hong Kong Young Scientist Award 2023</b></span2>, as the only winner in the engineering field of Hong Kong.
 </p>
 
 
@@ -90,4 +90,4 @@ color: #00356B;
 </style>
 
 
-**Email:** <span2>zhen.chen@yale.edu<span2>
+**Email:** <span2>zhen.chen@yale.edu</span2>
