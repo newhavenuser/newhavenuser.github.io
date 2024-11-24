@@ -57,11 +57,11 @@ header:
 <br>
 <h2><b>Program Committees </b></h2>
 <ul>
-<li><b>Aera Chair</b> of MICCAI 2024</li>
-<li><b>Chair</b> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
-<li><b>Chair</b> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
-<li><b>Chair</b> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
-<li><b>Chair</b> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
+<li><span2><b>Aera Chair</b></span2> of MICCAI 2024</li>
+<li><span2><b>Chair</b></span2> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
+<li><span2><b>Chair</b></span2> of ICRA 2024 Workshop on Continuum, Compliant, Cooperative, Cognitive Surgical Robotic Systems in the Embodied AI Era (C4SR+)</li> 
+<li><span2><b>Chair</b></span2> of IJCAI 2023 Symposium Session on Medical Large Models</li> 
+<li><span2><b>Chair</b></span2> of IEEE MedAI 2024 Special Session on Embodied AI for Medical Robots</li> 
 <li>TPC of International Joint Conference on Artificial Intelligence (IJCAI 2023&2024)</li> 
 <li>TPC of IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)</li> 
 <li>TPC of MICCAI Distributed, Collaborative and Federated Learning (DeCaF) Workshop (2022&2023)</li>
@@ -119,6 +119,12 @@ header:
 <li>2017.10  "Sensor-Assisted Face Recognition System on Smart Glass" at Shenzhen University, China</li>
 <li>2016.11  "Biometric-based Recognition System on Wearable Devices " at NICTA Australia</li>
 </ul> -->
+
+<style>
+span2 {
+color: #00356B;
+ }
+</style>
 
 
 
