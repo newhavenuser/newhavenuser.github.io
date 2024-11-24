@@ -107,7 +107,7 @@ subtitle = ""
 
 [Nov 2022] Our paper "Hierarchical Bias Mitigation for Semi-Supervised Medical Image Classification" has been accepted by <span2><b>IEEE Transactions on Medical Imaging</b></span2> <br>
 
-[Nov 2022] Our paper "<span2><b>FedDM</b><span2>: Federated Weakly Supervised Segmentation via Annotation Calibration and Gradient De-conflicting" has been accepted by <span2><b>IEEE Transactions on Medical Imaging</b></span2> <br>
+[Nov 2022] Our paper "<span2><b>FedDM</b></span2>: Federated Weakly Supervised Segmentation via Annotation Calibration and Gradient De-conflicting" has been accepted by <span2><b>IEEE Transactions on Medical Imaging</b></span2> <br>
 
 [Oct 2022] <span2>I joined <b>CAIR, HKISI-CAS as an Assistant Professor</b></span2><br>
 
