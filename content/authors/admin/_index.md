@@ -31,14 +31,14 @@ Interests:
 
 Education:
   courses:
-  - course: Ph.D. in Electrical Engineering
-    institution: City University of Hong Kong
+  - course: Ph.D. in City University of Hong Kong
+    institution: Electrical Engineering
     year: 2022
-  - course: M.Phil. in Information Science
-    institution: University of Science and Technology of China
+  - course: M.Phil. in University of Science and Technology of China
+    institution: Information Science
     year: 2019
-  - course: B.Eng. in Information Engineering
-    institution: Xi'an Jiaotong University
+  - course: B.Eng. in Xi'an Jiaotong University
+    institution: Information Engineering
     year: 2016
 
 # Social/Academic Networking
