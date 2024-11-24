@@ -35,7 +35,7 @@ education:
     institution: City University of Hong Kong
     year: 2022
   - course: M.Phil. in Information Science
-    institution: University of Science and Technology of China
+    institution: <span style="color: red">University of Science and Technology of China</span>
     year: 2019
   - course: B.Eng. in Information Engineering
     institution: Xi'an Jiaotong University
