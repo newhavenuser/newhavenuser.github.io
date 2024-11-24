@@ -25,9 +25,9 @@ header:
 <li>2013: The CSIRO Top-up Scholarship</li> -->
 
 
-<li> <b>Hong Kong Young Scientist Award 2023</b> (Engineering Science) [<a href="https://drive.google.com/file/d/1MafgsqyKKb2tt4ZOKwDPfii4WpEwPUHq/view?usp=sharing">News</a>]</li>
+<li> <span2><b>Hong Kong Young Scientist Award 2023</b></span2> (Engineering Science) [<a href="https://drive.google.com/file/d/1MafgsqyKKb2tt4ZOKwDPfii4WpEwPUHq/view?usp=sharing">News</a>]</li>
 <li> IEEE TMI Distinguished Reviewer Award 2023&2024</li>
-<li> <b>MICCAI 2022 Young Scientist Award</b> (2nd author)</li>
+<li> <span2><b>MICCAI 2022 Young Scientist Award</b></span2> (2nd author)</li>
 <li> MICCAI 2021 Student Travel Award</li>
 <li> CityU Institutional Research Tuition Scholarship (RTS)</li>
 <li> Xi'an Jiaotong University Outstanding Graduates Award</li>
@@ -43,7 +43,11 @@ header:
    The Hong Kong Young Scientist Award 2023 and MICCAI Young Scientist Award 2022
 </div>
 
-
+<style>
+span2 {
+color: #00356B;
+ }
+</style>
 
              
 
