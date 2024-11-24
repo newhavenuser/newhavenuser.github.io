@@ -115,7 +115,7 @@ subtitle = ""
 
 [May 2022] Our paper "Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data" has been accepted by <span2>IEEE Transactions on Medical Imaging</span2> <br>
 
-[May 2022] Two papers <span2><b>Discrepancy and Gradient-guided Distillation</b></span2> and <span2><b>TEAR"</b></span2> have been accepted by MICCAI 2022. Congrats to Xiaohan and Qiushi! <br>
+[May 2022] Two papers <span2><b>Discrepancy and Gradient-guided Distillation</b></span2> and <span2><b>TEAR</b></span2> have been accepted by MICCAI 2022. Congrats to Xiaohan and Qiushi! <br>
 
 [Apr 2022] Our paper "Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining" has been accepted by <span2><b>Medical Image Analysis</b></span2> <br>
 
