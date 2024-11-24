@@ -69,7 +69,7 @@ subtitle = ""
 
 [Oct 2024] Our <span2><b>MICCAI 2024 Workshop</b></span2> on <span2><b>Embodied AI and Robotics for HealTHcare (EARTH)</b></span2> was held successfully at Marrakesh, Morocco. Great honor to have Prof. <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=de">Nassir Navab</a> and Prof. <a href="https://camma.unistra.fr/npadoy/">Nicolas Padoy</a> as keynote speakers<br>
 
-[Sep 2024] Our paper <span2><b>Surgery Copilot</b></span2> and <span2><b>FedDCM</b></span2> have been accepted by <span2><b>IEEE Big Data 2024</b></span2><br>
+[Oct 2024] Our paper <span2><b>Surgery Copilot</b></span2> and <span2><b>FedDCM</b></span2> have been accepted by <span2><b>IEEE Big Data 2024</b></span2><br>
 
 [Sep 2024] Our paper "<span2><b>Flaws can be Applause</b></span2>: Unleashing Potential of Segmenting Ambiguous Objects in SAM" has been accepted by <span2><b>NeurIPS 2024</b></span2><br>
 
