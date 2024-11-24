@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 <br>
-<b>Journal Papers </b>
+<h2><b>Journal Papers </b></h2>
 <br>
 <ol>
 
@@ -41,7 +41,7 @@ header:
 
 
 <br>
-<b>Conference Papers</b> 
+<h2><b>Conference Papers</b></h2> 
 <!-- (The underlined first authors are under my supervision) -->
 <br>
 <ol>
@@ -88,7 +88,7 @@ header:
 
  
 <br>
-<b>Workshop Papers</b>
+<h2><b>Workshop Papers</b></h2>
 <br>
 <ol>
 
@@ -99,7 +99,7 @@ header:
 
 
 <br>
-<b>Editorship</b>
+<h2><b>Editorship</b></h2>
 <br>
 <ol>
 
