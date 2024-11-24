@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 <br>
-<h2><b>Journal Papers </b></h2>
+<h2><b>Journal Papers</b></h2>
 <ol>
 
 <li><b>[JBHI'24]</b> Yupei Zhang, Li Pan, Qiushi Yang, Tan Li, <b>Zhen Chen<sup>&#9993</sup></b>. "Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning", IEEE Journal of Biomedical and Health Informatics, 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10488705">Paper</a>] [<a href="https://github.com/helenypzhang/UMD">Code</a>]</li>
@@ -40,9 +40,7 @@ header:
 
 
 <br>
-<h2><b>Conference Papers</b></h2> 
-<!-- (The underlined first authors are under my supervision) -->
-<br>
+<h2><b>Conference Papers</b></h2> <!-- (The underlined first authors are under my supervision) -->
 <ol>
 
 <li><b>[IROS'24]</b> <b>Zhen Chen</b>, Zongmin Zhang, Wenwu Guo, Xingjian Luo, Long Bai, Jinlin Wu, Hongliang Ren, Hongbin Liu. "ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding", IEEE/RSJ International Conference on Intelligent Robots and Systems, Abu Dhabi, UAE, 2024. (<b>Oral</b>) [<a href="https://arxiv.org/pdf/2407.19435">Paper</a>] [<a href="https://github.com/Zonmgin-Zhang/ASI-Seg">Code</a>]</li> 
@@ -88,7 +86,6 @@ header:
  
 <br>
 <h2><b>Workshop Papers</b></h2>
-<br>
 <ol>
 
 <li><b>[MICCAI'24 EARTH]</b> Wenwu Guo, Jinlin Wu, <b>Zhen Chen<sup>&#9993</sup></b>, Qingxiang Zhao, Miao Xu, Hongbin Liu, Zhen Lei. "SurgTrack: 3D Tracking of Real-world Surgical Instruments", International Conference on Medical Image Computing and Computer Assisted Interventions Workshop on Embodied AI and Robotics for Healthcare, Marrakesh, Moroccan, 2024. [<a href="https://arxiv.org/pdf/2409.02598">Paper</a>] [<a href="https://github.com/Wahaha-Code/SugicalTrack">Code</a>]</li>
@@ -99,7 +96,6 @@ header:
 
 <br>
 <h2><b>Editorship</b></h2>
-<br>
 <ol>
 
 <li>Emre Celebi, Mauricio Reyes, <b>Zhen Chen</b>, Xiaoxiao Li. "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024 Workshops", ISIC 2024, iMIMIC 2024, EARTH 2024, DeCaF 2024, Held in Conjunction with MICCAI 2024, Marrakesh, Morocco, October 6–10, 2024. [<a href="https://link.springer.com/book/9783031776090">Proceedings</a>]</li>
