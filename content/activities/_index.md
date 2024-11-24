@@ -49,13 +49,13 @@ header:
 </ul> -->
 
 <br>
-<b>Grant Reviewers </b>
+<h2><b>Grant Reviewers </b></h2>
 <ul>
 <li>Education Research Funding Programme (ERFP), Ministry of Education, Singapore</li>
 </ul>
 
 <br>
-<b>Program Committees </b>
+<h2><b>Program Committees </b></h2>
 <ul>
 <li><b>Aera Chair</b> of MICCAI 2024</li>
 <li><b>Chair</b> of MICCAI 2024 Workshop on Embodied AI and Robotics for Healthcare (EARTH)</li> 
@@ -69,7 +69,7 @@ header:
 </ul>
 
 <br>
-<b>Regular Journal Reviewers </b>
+<h2><b>Regular Journal Reviewers </b></h2>
 <ul>
 <li>Medical Image Analysis (MedIA)</li> 
 <li>IEEE Transactions on Medical Imaging (TMI)</li>
@@ -88,7 +88,7 @@ header:
 </ul>
 
 <br>
-<b>Regular Conference Reviewers </b>
+<h2><b>Regular Conference Reviewers </b></h2>
 <ul>
 <li>International Conf. on Medical Image Computing and Computer Assisted Interventions (MICCAI)</li>
 <li>The Conference on Neural Information Processing Systems (NeurIPS)</li>
