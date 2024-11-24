@@ -73,12 +73,13 @@ I'm a <b>Senior Postdoctoral Associate</b> in the Department of Biomedical Infor
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-My research interests focus on <b>AI for Healthcare</b>. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <b>Hong Kong Young Scientist Award 2023</b>, as the only winner in the engineering field of Hong Kong.
+My research interests focus on <b>AI for Healthcare</b>. <span2>[Recruitment]</span2>The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <b>Hong Kong Young Scientist Award 2023</b>, as the only winner in the engineering field of Hong Kong.
 </p>
 
 
 <!-- Assistant Professor at the Department of Computer Science at City University of Hong Kong. I worked as a Postdoctoral Research Associate at University of New South Wales (UNSW) from June 2017 to August 2019.  I obtained my PhD degree from the University of Queensland in 2017 (advised by Prof. [Neil Bergmann](https://scholar.google.com.au/citations?user=M7kg0MQAAAAJ&hl=en) and Prof. [Wen Hu](https://scholar.google.com/citations?user=LKpTCwkAAAAJ&hl=en)).  I received my B.E. degree in Communication Engineering and M.E. degree in Communication and Information System both from the School of Information Science and Engineering, Shandong University (SDU) , China, in 2010 and 2013, respectively. I'm an IEEE Senior Member and a ACM Member.
 
+<span2>[Recruitment]</span2>  I'm leading the Smart Sensing and Mobile Computing (S2MC) group at CityU and continuously looking for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests, but generally my previous research focuses on Internet-of-Things (IoT) such as smart sensing, IoT security, wearables/AR/VR, application of LLM in IoT, wireless network etc (please visit our group website for more details). For current available PhD positions in my group. please visit [Recruitment](https://www.weitaoxu.com/recruitment/) for more information. -->
 
 
 
