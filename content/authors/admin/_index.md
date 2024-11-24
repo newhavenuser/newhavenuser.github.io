@@ -73,7 +73,7 @@ I'm a <b>Senior Postdoctoral Associate</b> in the Department of Biomedical Infor
 </p>
 
 <p style="text-align:justify;text-justify:inter-ideograph;">
-My research interests focus on <b>AI for Healthcare</b>. <span2>[Recruitment]</span2>The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <b>Hong Kong Young Scientist Award 2023</b>, as the only winner in the engineering field of Hong Kong.
+My research interests focus on <b>AI for Healthcare</b>. The research aligns with the human healthcare pipeline, including the clinical diganosis, surgery intervention, and medical foundation models to support the healthcare system. In recognition of the research in AI-assisted diagnosis and surgery, I won the <b>Hong Kong Young Scientist Award 2023</b>, as the only winner in the engineering field of Hong Kong.
 </p>
 
 
@@ -85,7 +85,7 @@ My research interests focus on <b>AI for Healthcare</b>. <span2>[Recruitment]</s
 
 <style>
 span2 {
-color: blue;
+color: #00356B;
  }
 </style>
 
