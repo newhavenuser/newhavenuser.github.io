@@ -9,7 +9,6 @@ header:
 ---
 <br>
 <h2><b>Journal Papers </b></h2>
-<br>
 <ol>
 
 <li><b>[JBHI'24]</b> Yupei Zhang, Li Pan, Qiushi Yang, Tan Li, <b>Zhen Chen<sup>&#9993</sup></b>. "Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning", IEEE Journal of Biomedical and Health Informatics, 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10488705">Paper</a>] [<a href="https://github.com/helenypzhang/UMD">Code</a>]</li>
