@@ -1,5 +1,5 @@
 ---
-title: Professional Activities
+title: Professional Services
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
@@ -76,7 +76,7 @@ header:
 <li>IEEE Transactions on Image Processing (TIP)</li> 
 <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
 <li>International Journal of Computer Vision (IJCV)</li> 
-<li>IEEE Transactions on Information Forensics and Security(TIFS)</li> 
+<li>IEEE Transactions on Information Forensics and Security (TIFS)</li> 
 <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li> 
 <li>IEEE Transactions on Industrial Informatics (TII)</li> 
 <li>IEEE Transactions on Computational Imaging (TCI)</li> 
