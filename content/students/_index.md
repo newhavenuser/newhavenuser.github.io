@@ -22,7 +22,7 @@ header:
 <br>
 <h2><b>Mentorship</b></h2>
 <ul>
-<li>Mentored several junior Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
+<li>Mentored several Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
 <li>Served as the Mentor in the MICCAI Society Mentorship Program, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
 </ul>
 <br>
