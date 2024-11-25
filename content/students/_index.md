@@ -18,17 +18,3 @@ header:
 <li><a href="https://zikunliu6.github.io/">Zikun Liu</a> (RA, USTC Gifted Young, 2018-2019; PhD candidate at University of Illinois at Urbana-Champaign)</li>
 </ul>
 <br>
-
-<div style="margin: 0 auto; text-align: center; overflow: hidden;"> 
-    <img src="copilot_team.jpg" width="800px" height="400px">
-   Our research team to develop the multimodal surgery copilot system from zero to one
-</div>
-
-
-
-
-
-
-
-
-
