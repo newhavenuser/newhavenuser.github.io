@@ -32,24 +32,32 @@
   weight = 40
 
 [[main]]
-  name = "Activities"
+  name = "Services"
   url = "activities/"
   weight = 50
 
 [[main]]
+  name = "Talks"
+  url = "talks/"
+  weight = 60
+
+[[main]]
   name = "Supervision"
   url = "students/"
-  weight = 60
+  weight = 70
+
+[[main]]
+  name = "Misc"
+  url = "mics/"
+  weight = 80
+
 
 # [[main]]
 #   name = "Recruitment"
 #   url = "recruitment/"
 #   weight = 80
 
-[[main]]
-  name = "Misc"
-  url = "Mics/"
-  weight = 70
+
 
 
 
