@@ -17,3 +17,12 @@ header:
 <li><a href="https://zikunliu6.github.io/">Zikun Liu</a> (RA, USTC Gifted Young, 2018-2019; PhD candidate at University of Illinois at Urbana-Champaign)</li>
 </ul>
 <br>
+
+
+<br>
+<h2><b>Mentorship</b></h2>
+<ul>
+<li>Have mentored several junior Ph.D. students in AIM Group, CUHK with their first publication in top-tier journals and conferences</li>
+<li>Served as the Mentor in the MICCAI Society Mentorship Program, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
+</ul>
+<br>
