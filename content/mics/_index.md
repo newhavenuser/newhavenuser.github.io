@@ -9,17 +9,14 @@ header:
 ---
 
 <br>
-<h2><b>Alumni</b></h2>
+<h2><b>Fun Facts</b></h2>
 <ul>
-<li><a href="https://helenypzhang.github.io/">Yupei Zhang</a> (RA, 2022-2024; PhD candidate at University of Cambridge)</li>
-<li><a href="https://scholar.google.com/citations?hl=zh-CN&user=IzA-Ij8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate">Qing Xu</a> (RA, 2023-2024; PhD candidate at The University of Nottingham Ningbo China)</li>
-<li>Zhen Sun</a> (RA, 2023-2024; PhD candidate at Hong Kong University of Science and Technology (Guangzhou))</li>
-<li><a href="https://zikunliu6.github.io/">Zikun Liu</a> (RA, USTC Gifted Young, 2018-2019; PhD candidate at University of Illinois at Urbana-Champaign)</li>
+<li>My Ph.D. study is shorter than the Master study. Great thanks my supervisor's guidance and support!</li>
+<li>None of seven first-author manuscripts were rejected, making me the first graduated Ph.D. in our lab</li>
 </ul>
 
 <br>
-<h2><b>Mentorship</b></h2>
+<h2><b>Research Collaboration</b></h2>
 <ul>
-<li>Mentored several Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
-<li>Served as the Mentor in the MICCAI Society Mentorship Program, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
+<li>I am open to research coollaboration, whether to join my research projects or involve me to your projects. I always believe that research requires high-quality exchanges, and collaboration is a good opportunity for mutual learning :)</li>
 </ul>
