@@ -19,8 +19,8 @@ The research aligns with human healthcare pipeline, including the clinical diagn
 <h2><b>Multimodal Clinical Diagnosis</b></h2>
 Our research targets at the multimodal clinical diagnosis though AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, and genetics, etc
 
-<ul>
 Selected Publications
+<ul>
 <li>[MedIA'23] Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
 <li>[TMI'22] Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li>
 <li>[MICCAI'22] Discrepancy and Gradient-guided Multi-modal Knowledge Distillation for Pathological Glioma Grading (MICCAI Young Scientist Award, Oral)</li>
@@ -31,8 +31,9 @@ Selected Publications
 <hr />
 
 <h2><b>Surgery Intervention Assistance</b></h2>
-<ul>
+
 Selected Publications
+<ul>
 <li>[MICCAI'24] Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (Oral)</li>
 <li>[IROS'24] ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (Oral)</li>
 <li>[BigData'24] SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot</li>
@@ -44,8 +45,9 @@ Selected Publications
 
 
 <h2><b>Medical Foundation Models</b></h2>
-<ul>
+
 Selected Publications
+<ul>
 <li>[NeurIPS'24] Flaws can be Applause: Unleashing Potential of Segmenting Ambiguous Objects in SAM</li>
 <li>[JBHI'24] Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning</li>
 <li>[MICCAI'24] EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</li>
