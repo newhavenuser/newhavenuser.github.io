@@ -12,13 +12,16 @@ header:
 
 
 <h2><b>Human Healthcare Pipeline</b></h2>
+<p style="text-align:justify;text-justify:inter-ideograph;">
 The research aligns with human healthcare pipeline, including the clinical diagnosis, surgery intervention and medical foundation models. With the multimodal medical data from patient examinations, our research can assist clinicans with diagnosis and assist surgeons with surgery. In particular, our research on medical multimodal foundation models can futher support the entire healthcare pipeline.
+</p>
 <img border="0" src="research-1-pipeline.jpg" width="1200" height="600">
 <hr />
 
 <h2><b>Multimodal Clinical Diagnosis</b></h2>
+<p style="text-align:justify;text-justify:inter-ideograph;">
 Our research targets at the multimodal clinical diagnosis though AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, and genetics, etc
-
+</p>
 Selected Publications
 <ul>
 <li>[MedIA'23] Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
@@ -31,7 +34,8 @@ Selected Publications
 <hr />
 
 <h2><b>Surgery Intervention Assistance</b></h2>
-
+<p style="text-align:justify;text-justify:inter-ideograph;">
+</p>
 Selected Publications
 <ul>
 <li>[MICCAI'24] Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (Oral)</li>
@@ -45,7 +49,8 @@ Selected Publications
 
 
 <h2><b>Medical Foundation Models</b></h2>
-
+<p style="text-align:justify;text-justify:inter-ideograph;">
+</p>
 Selected Publications
 <ul>
 <li>[NeurIPS'24] Flaws can be Applause: Unleashing Potential of Segmenting Ambiguous Objects in SAM</li>
