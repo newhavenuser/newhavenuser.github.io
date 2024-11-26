@@ -21,5 +21,5 @@ header:
 <br>
 <h2><b>Interviews</b></h2>
 <ul>
-<li>Attend the interview by MICCAI Society to introduce and look forward to Embodied AI for Healthcare [<a href="https://conferences.miccai.org/2024/en/EARTH-Workshop.html">News</a>]</li>
+<li>Attend the interview by MICCAI 2024 Conference to introduce and look forward to Embodied AI for Healthcare [<a href="https://conferences.miccai.org/2024/en/EARTH-Workshop.html">News</a>]</li>
 </ul>
