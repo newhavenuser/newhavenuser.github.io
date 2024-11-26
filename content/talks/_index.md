@@ -9,16 +9,17 @@ header:
 ---
 
 <br>
-<h2><b>Alumni</b></h2>
+<h2><b>Invited Talks</b></h2>
 <ul>
-<li><a href="https://helenypzhang.github.io/">Yupei Zhang</a> (RA, 2022-2024; PhD candidate at University of Cambridge)</li>
-<li><a href="https://scholar.google.com/citations?hl=zh-CN&user=IzA-Ij8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate">Qing Xu</a> (RA, 2023-2024; PhD candidate at The University of Nottingham Ningbo China)</li>
-<li>Zhen Sun</a> (RA, 2023-2024; PhD candidate at Hong Kong University of Science and Technology (Guangzhou))</li>
-<li><a href="https://zikunliu6.github.io/">Zikun Liu</a> (RA, USTC Gifted Young, 2018-2019; PhD candidate at University of Illinois at Urbana-Champaign)</li>
+<li>[Nov 2024] Multimodal Large Language Model and Its Healthcare Application, Seminar at University of Hawaii at Manoa</li>
+<li>[Feb 2024] CARES Copilot, A Multi-modality Surgery AI Assistant, Seminar at Dept. of Surgery, CUHK, invited by Dr. Peter Y.M. Woo</li>
+<li>[Dec 2023] Towards Intelligent Medical Image Analysis, Seminar at DHarbin Institute of Technology (Shenzhen)</li>
+<li>[Sep 2023] CARES Copilot, Neuro-Open AI Platform, Seminar at Dept. of Surgery, CUHK, Invited by Dr. Danny T.M. Chan</li>
+<li>[Jul 2023] Intelligent Surgical Video Understanding with Mulitmodal Concepts, The 3rd Guangdong-Hong Kong-Macau Neurosurgery Summit</li>
 </ul>
 
 <br>
-<h2><b>Mentorship</b></h2>
+<h2><b>Interviews</b></h2>
 <ul>
 <li>Mentored several Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
 <li>Served as the Mentor in the MICCAI Society Mentorship Program, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
