@@ -21,6 +21,5 @@ header:
 <br>
 <h2><b>Interviews</b></h2>
 <ul>
-<li>Mentored several Ph.D. students in AIM Group, CUHK with their first publication in top journals and conferences</li>
-<li>Served as the Mentor in the MICCAI Society Mentorship Program, and helped Ph.D. students from Sweden, Germany, South Korea, etc</li>
+<li>Attend the interview by MICCAI Society to introduce and look forward to Embodied AI for Healthcare [<a href="https://conferences.miccai.org/2024/en/EARTH-Workshop.html">News</a>]</li>
 </ul>
