@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee7faa85-0945-4d22-ac77-5a96544356b4)---
+---
 # Display name
 name: Zhen CHEN
 
