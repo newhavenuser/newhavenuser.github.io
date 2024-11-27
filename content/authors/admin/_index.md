@@ -52,7 +52,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oVG2zEkAAAAJ&hl=en
-
+- icon: github
+  icon_pack: fab
+  link: [https://github.com/你的GitHub用户名](https://github.com/Xiaoqiovo)
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/你的LinkedIn用户名
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/你的ResearchGate用户名
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
