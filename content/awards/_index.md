@@ -45,7 +45,7 @@ header:
 
 <style>
 span2 {
-color: #7D95B2;
+color: #085DB3;
  }
 </style>
 
