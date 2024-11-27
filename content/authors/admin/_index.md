@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ee7faa85-0945-4d22-ac77-5a96544356b4)---
 # Display name
 name: Zhen CHEN
 
@@ -55,7 +55,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Xiaoqiovo
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/你的LinkedIn用户名
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/你的ResearchGate用户名
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
