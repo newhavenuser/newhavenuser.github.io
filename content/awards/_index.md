@@ -30,6 +30,7 @@ header:
 <li> IEEE TMI Distinguished Reviewer Award 2023&2024</li>
 <li> MICCAI 2021 Student Travel Award</li>
 <li> CityU Institutional Research Tuition Scholarship (RTS)</li>
+<li> USTC Academic First-class Scholarship</li>
 <li> Xi'an Jiaotong University Outstanding Graduates Award</li>
 <li> XJTU Outstanding Student Leaders Award</li>
 <li> XJTU Outstanding Students Award (twice)</li>
