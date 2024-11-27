@@ -59,7 +59,7 @@ Selected Publications
 <li>[MICCAI'24] Endora: Video Generation Models as Endoscopy Simulators</li>
 <li>More research coming soon ...</li>
 </ul>
-<img border="0" src="research-4-foundation.jpg" width="1200" height="600">
+<img border="0" src="research-4-foundation.jpg" width="1000" height="500">
 
 
 
