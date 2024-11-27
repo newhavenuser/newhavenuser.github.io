@@ -85,7 +85,7 @@ My research interests focus on <span2><b>AI for Healthcare</b></span2>. The rese
 
 <style>
 span2 {
-color: #7D95B2;
+color: #085DB3;
  }
 </style>
 
