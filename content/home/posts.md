@@ -130,7 +130,7 @@ subtitle = ""
 
 <style>
 span2 {
-color: #00356B;
+color: #7D95B2;
  }
 </style>
 
