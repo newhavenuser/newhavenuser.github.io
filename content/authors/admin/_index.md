@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=oVG2zEkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: [https://github.com/你的GitHub用户名](https://github.com/Xiaoqiovo)
+  link: https://github.com/Xiaoqiovo
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
