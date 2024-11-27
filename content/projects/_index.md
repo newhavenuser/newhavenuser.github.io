@@ -13,14 +13,14 @@ header:
 
 <h2><b>Human Healthcare Pipeline</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-The research aligns with human healthcare pipeline, including the clinical diagnosis, surgery intervention and medical foundation models. With the multimodal medical data from patient examinations, our research can assist clinicans with diagnosis and assist surgeons with surgery. In particular, our research on medical multimodal foundation models can futher support the entire healthcare pipeline.
+The research aligns with human healthcare pipeline, including the clinical diagnosis, surgery intervention and medical foundation models. With the multimodal medical data from patient examinations, our research can assist clinicans with diagnosis and assist surgeons with surgery. In particular, our research on multimodal medical foundation models can further support the entire healthcare pipeline.
 </p>
 <img border="0" src="research-1-pipeline.jpg" width="1200" height="600">
 <hr />
 
 <h2><b>Multimodal Clinical Diagnosis</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-Our research targets at the multimodal clinical diagnosis though AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, and genetics, etc
+Our research targets at the multimodal clinical diagnosis though AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc
 </p>
 Selected Publications
 <ul>
@@ -59,7 +59,7 @@ Selected Publications
 <li>[MICCAI'24] Endora: Video Generation Models as Endoscopy Simulators</li>
 <li>More research coming soon ...</li>
 </ul>
-<img border="0" src="research-3-surgery.jpg" width="1200" height="600">
+<img border="0" src="research-4-foundation.jpg" width="1200" height="600">
 
 
 
