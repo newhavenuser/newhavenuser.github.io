@@ -59,6 +59,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
+    
+[params]
+  logo = "Yale-logo-Y.png"
 
 [imaging]
   resampleFilter = "lanczos"
