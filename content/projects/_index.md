@@ -24,11 +24,11 @@ Our research targets at the multimodal clinical diagnosis through AI training pi
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
-<li>[MedIA'23] Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
-<li>[TMI'22] Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li>
-<li>[MICCAI'22] Discrepancy and Gradient-guided Multi-modal Knowledge Distillation for Pathological Glioma Grading (MICCAI Young Scientist Award, Oral)</li>
-<li>[AAAI'21] Diagnose Like A Pathologist: Weakly-Supervised Pathologist-Tree Network for Slide-Level Immunohistochemical Scoring</li>
-<li>[TMI'21] Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</li>
+<li><b>[MedIA'23]</b> Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
+<li><b>[TMI'22]</b> Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li>
+<li><b>[MICCAI'22]</b> Discrepancy and Gradient-guided Multi-modal Knowledge Distillation for Pathological Glioma Grading (MICCAI Young Scientist Award, Oral)</li>
+<li><b>[AAAI'21]</b> Diagnose Like A Pathologist: Weakly-Supervised Pathologist-Tree Network for Slide-Level Immunohistochemical Scoring</li>
+<li><b>[TMI'21]</b> Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</li>
 </ul>
 <img border="0" src="research-2-diagnosis.jpg" width="1200" height="600">
 <hr />
@@ -39,11 +39,11 @@ We have developed a surgeon-centric Surgery Copilot system to provide comprehens
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
-<li>[MICCAI'24] Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (Oral)</li>
-<li>[IROS'24] ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (Oral)</li>
-<li>[BigData'24] SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot</li>
-<li>[BIBM'24] SurgFC: Multimodal Surgical Function Calling Framework on the Demand of Surgeons</li>
-<li>[MICCAI'23] Surgical Video Captioning with Mutual-Modal Concept Alignment (Early accepted)</li>
+<li><b>[MICCAI'24]</b> Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (Oral)</li>
+<li><b>[IROS'24]</b> ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (Oral)</li>
+<li><b>[BigData'24]</b> SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot</li>
+<li><b>[BIBM'24]</b> SurgFC: Multimodal Surgical Function Calling Framework on the Demand of Surgeons</li>
+<li><b>[MICCAI'23]</b> Surgical Video Captioning with Mutual-Modal Concept Alignment (Early accepted)</li>
 </ul>
 <img border="0" src="research-3-surgery.jpg" width="1200" height="600">
 <hr />
@@ -55,10 +55,10 @@ Besides the diganosis and surgery, our research is exploring on medical foundati
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
-<li>[NeurIPS'24] Flaws can be Applause: Unleashing Potential of Segmenting Ambiguous Objects in SAM</li>
-<li>[JBHI'24] Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning</li>
-<li>[MICCAI'24] EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</li>
-<li>[MICCAI'24] Endora: Video Generation Models as Endoscopy Simulators</li>
+<li><b>[NeurIPS'24]</b> Flaws can be Applause: Unleashing Potential of Segmenting Ambiguous Objects in SAM</li>
+<li><b>[JBHI'24]</b> Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning</li>
+<li><b>[MICCAI'24]</b> EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</li>
+<li><b>[MICCAI'24]</b> Endora: Video Generation Models as Endoscopy Simulators</li>
 <li>More research coming soon ...</li>
 </ul>
 <img border="0" src="research-4-foundation.jpg" width="800" height="400">
