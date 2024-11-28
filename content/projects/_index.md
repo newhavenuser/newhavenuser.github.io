@@ -25,7 +25,6 @@ Our research targets at the multimodal clinical diagnosis through AI training pi
 <h4 id="Selected-Publications">Selected Publications</h4>
 <blockquote><ul><li><b>[MedIA'23]</b> Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
 <li><b>[TMI'22]</b> Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li></li></ul></blockquote>
-
 Selected Publications
 <ul>
 <li>[MedIA'23] Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
