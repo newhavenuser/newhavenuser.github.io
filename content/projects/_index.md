@@ -39,8 +39,8 @@ We have developed a <span2><b>surgeon-centric Surgery Copilot system</b></span2>
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
-<li><b>[MICCAI'24]</b> Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (<b>Oral</b>) 
-      [<a href="https://arxiv.org/pdf/2406.12651">Paper</a>] [<a href="https://github.com/franciszchen/EmbodiedUS">Code</a>]</li>
+<li><b>[MICCAI'24]</b> Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (<b>Oral</b>) <br>
+  [<a href="https://arxiv.org/pdf/2406.12651">Paper</a>] [<a href="https://github.com/franciszchen/EmbodiedUS">Code</a>]</li>
 <li><b>[IROS'24]</b> ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (<b>Oral</b>) [<a href="https://arxiv.org/pdf/2407.19435">Paper</a>] [<a href="https://github.com/Zonmgin-Zhang/ASI-Seg">Code</a>]</li>
 <li><b>[BigData'24]</b> SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot [<a href="https://github.com/franciszchen/SurgBox">Code</a>]</li>
 <li><b>[BIBM'24]</b> SurgFC: Multimodal Surgical Function Calling Framework on the Demand of Surgeons [<a href="https://arxiv.org/pdf/2405.08272">Paper</a>] [<a href="https://github.com/franciszchen/SurgFC">Code</a>]</li>
