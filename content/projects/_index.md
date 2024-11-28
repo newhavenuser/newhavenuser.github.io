@@ -22,10 +22,9 @@ The research aligns with human healthcare pipeline, including the clinical diagn
 <p style="text-align:justify;text-justify:inter-ideograph;">
 Our research targets at the multimodal clinical diagnosis through AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality data, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc.
 </p>
-<h3 id="Selected-Publications">Selected Publications</h3>
+<h4 id="Selected-Publications">Selected Publications</h4>
 <blockquote><ul><li><b>[MedIA'23]</b> Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
-<li><b>[TMI'22]</b> Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li></li>
-</ul></blockquote>
+<li><b>[TMI'22]</b> Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li></li></ul></blockquote>
 
 Selected Publications
 <ul>
