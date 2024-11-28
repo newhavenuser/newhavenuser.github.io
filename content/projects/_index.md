@@ -20,7 +20,7 @@ The research aligns with human healthcare pipeline, including the clinical diagn
 
 <h2><b>Multimodal Clinical Diagnosis</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-Our research targets at the multimodal clinical diagnosis through AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality data, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc
+Our research targets at the multimodal clinical diagnosis through AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality data, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc.
 </p>
 Selected Publications
 <ul>
@@ -60,7 +60,7 @@ Selected Publications
 <li>[MICCAI'24] Endora: Video Generation Models as Endoscopy Simulators</li>
 <li>More research coming soon ...</li>
 </ul>
-<img border="0" src="research-4-foundation.jpg" width="1000" height="500">
+<img border="0" src="research-4-foundation.jpg" width="800" height="400">
 
 
 
