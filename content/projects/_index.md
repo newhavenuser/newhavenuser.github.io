@@ -23,9 +23,6 @@ The research aligns with human healthcare pipeline, including the clinical diagn
 Our research targets at the multimodal clinical diagnosis through AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality data, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc.
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
-<blockquote><ul><li><b>[MedIA'23]</b> Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
-<li><b>[TMI'22]</b> Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li></li></ul></blockquote>
-Selected Publications
 <ul>
 <li>[MedIA'23] Medical Federated Learning with Joint Graph Purification for Noisy Label Learning</li>
 <li>[TMI'22] Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</li>
@@ -40,7 +37,7 @@ Selected Publications
 <p style="text-align:justify;text-justify:inter-ideograph;">
 We have developed a surgeon-centric Surgery Copilot system to provide comprehensive assistance throughout the preoperative, intraoperative and postoperative processes. By understanding the surgeon's intention through voice commands, our Surgery Copilot system can automatically execute of various advanced surgical understanding algorithms, and further support surgical pipeline automation and embodied ultrasound scanning. The research enhances precision, efficiency, and safety in surgical intervention.
 </p>
-Selected Publications
+<h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
 <li>[MICCAI'24] Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (Oral)</li>
 <li>[IROS'24] ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (Oral)</li>
@@ -56,7 +53,7 @@ Selected Publications
 <p style="text-align:justify;text-justify:inter-ideograph;">
 Besides the diganosis and surgery, our research is exploring on medical foundation models to support more stages in human healthcare pipeline. Namely, these stages include triage, imaging, diagnosis, treatment, surgery, and rehabilitation, covering the entire spectrum of patient care. By driving the evolution of medical foundation models across these stages, our goal is to create a more seamless, efficient, and patient-centric healthcare system.
 </p>
-Selected Publications
+<h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
 <li>[NeurIPS'24] Flaws can be Applause: Unleashing Potential of Segmenting Ambiguous Objects in SAM</li>
 <li>[JBHI'24] Unified Multi-modal Diagnostic Framework with Reconstruction Pre-training and Heterogeneity-combat Tuning</li>
