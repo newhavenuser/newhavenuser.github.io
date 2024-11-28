@@ -20,7 +20,7 @@ The research aligns with human healthcare pipeline, including the clinical diagn
 
 <h2><b>Multimodal Clinical Diagnosis</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
-Our research targets at the multimodal clinical diagnosis though AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc
+Our research targets at the multimodal clinical diagnosis through AI training pipeline. The research focuses on addressing significant clinical challenges caused by imperfect medical data, including the low-quality data, modality-missing data, decentralized data, and coarse/noisy annotations. The research has been verified on diverse modalities, such as endoscopy, dermoscopy, pathology, radiology, ophthalmology, genetics, etc
 </p>
 Selected Publications
 <ul>
@@ -50,6 +50,7 @@ Selected Publications
 
 <h2><b>Medical Foundation Models</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
+Besides the diganosis and surgery, our research is exploring on medical foundation models to support more stages in human healthcare pipeline. Namely, these stages include triage, imaging, diagnosis, treatment, surgery, and rehabilitation, covering the entire spectrum of patient care. By driving the evolution of medical foundation models across these stages, our goal is to create a more seamless, efficient, and patient-centric healthcare system.
 </p>
 Selected Publications
 <ul>
