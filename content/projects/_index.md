@@ -35,6 +35,7 @@ Selected Publications
 
 <h2><b>Surgery Intervention Assistance</b></h2>
 <p style="text-align:justify;text-justify:inter-ideograph;">
+We have developed a surgeon-centric Surgery Copilot system to provide comprehensive assistance throughout the preoperative, intraoperative and postoperative processes. By understanding the surgeon's intention through voice commands, our Surgery Copilot system can automatically execute of various advanced surgical understanding algorithms, and further support surgical pipeline automation and embodied ultrasound scanning. The research enhances precision, efficiency, and safety in surgical intervention.
 </p>
 Selected Publications
 <ul>
