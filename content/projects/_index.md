@@ -26,7 +26,7 @@ Our research targets at the multimodal clinical diagnosis through AI training pi
 <ul>
 <li><b>[MedIA'23]</b> Medical Federated Learning with Joint Graph Purification for Noisy Label Learning [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002360">Paper</a>] [<a href="https://github.com/CUHK-AIM-Group/FedGP">Code</a>]</li>
 <li><b>[TMI'22]</b> Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data [<a href="https://www.researchgate.net/publication/362120723_Personalized_Retrogress-Resilient_Federated_Learning_Towards_Imbalanced_Medical_Data">Paper</a>] [<a href="https://github.com/CityU-AIM-Group/PRR-Imbalance">Code</a>]</li>
-<li><b>[MICCAI'22]</b> Discrepancy and Gradient-guided Multi-modal Knowledge Distillation for Pathological Glioma Grading (<span2><b>MICCAI Young Scientist Award</b></span2>, <span2><b>Oral</b></span2>) [<a href="https://link.springer.com/chapter/10.1007/978-3-031-16443-9_61">Paper</a>] [<a href="https://github.com/CUHK-AIM-Group/MultiModal-learning">Code</a>]</li>
+<li><b>[MICCAI'22]</b> Discrepancy and Gradient-guided Multi-modal Knowledge Distillation for Pathological Glioma Grading (<span2><b>MICCAI Young Scientist Award</b></span2>, <b>Oral</b>) [<a href="https://link.springer.com/chapter/10.1007/978-3-031-16443-9_61">Paper</a>] [<a href="https://github.com/CUHK-AIM-Group/MultiModal-learning">Code</a>]</li>
 <li><b>[AAAI'21]</b> Diagnose Like A Pathologist: Weakly-Supervised Pathologist-Tree Network for Slide-Level Immunohistochemical Scoring [<a href="https://www.researchgate.net/publication/350089153_Diagnose_Like_A_Pathologist_Weakly-Supervised_Pathologist-Tree_Network_for_Slide-Level_Immunohistochemical_Scoring">Paper</a>] [<a href="https://github.com/franciszchen/PTree-Net">Code</a>]</li>
 <li><b>[TMI'21]</b> Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction [<a href="https://ieeexplore.ieee.org/document/9339901">Paper</a>] [<a href="https://github.com/franciszchen/SRD-SAI">Code</a>]</li>
 </ul>
@@ -39,11 +39,12 @@ We have developed a <span2><b>surgeon-centric Surgery Copilot system</b></span2>
 </p>
 <h4 id="Selected-Publications">Selected Publications</h4>
 <ul>
-<li><b>[MICCAI'24]</b> Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (<span2><b>Oral</b></span2>) [<a href="https://arxiv.org/pdf/2406.12651">Paper</a>] [<a href="https://github.com/franciszchen/EmbodiedUS">Code</a>]</li>
-<li><b>[IROS'24]</b> ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (<span2><b>Oral</b></span2>) [<a href="https://arxiv.org/pdf/2407.19435">Paper</a>] [<a href="https://github.com/Zonmgin-Zhang/ASI-Seg">Code</a>]</li>
+<li><b>[MICCAI'24]</b> Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics (<b>Oral</b>) 
+      [<a href="https://arxiv.org/pdf/2406.12651">Paper</a>] [<a href="https://github.com/franciszchen/EmbodiedUS">Code</a>]</li>
+<li><b>[IROS'24]</b> ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding (<b>Oral</b>) [<a href="https://arxiv.org/pdf/2407.19435">Paper</a>] [<a href="https://github.com/Zonmgin-Zhang/ASI-Seg">Code</a>]</li>
 <li><b>[BigData'24]</b> SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot [<a href="https://github.com/franciszchen/SurgBox">Code</a>]</li>
 <li><b>[BIBM'24]</b> SurgFC: Multimodal Surgical Function Calling Framework on the Demand of Surgeons [<a href="https://arxiv.org/pdf/2405.08272">Paper</a>] [<a href="https://github.com/franciszchen/SurgFC">Code</a>]</li>
-<li><b>[MICCAI'23]</b> Surgical Video Captioning with Mutual-Modal Concept Alignment (<span2><b>Early accepted</b></span2>) [<a href="https://link.springer.com/chapter/10.1007/978-3-031-43996-4_3">Paper</a>] [<a href="https://github.com/franciszchen/SCA-Net">Code</a>]</li>
+<li><b>[MICCAI'23]</b> Surgical Video Captioning with Mutual-Modal Concept Alignment (<b>Early accepted</b>) [<a href="https://link.springer.com/chapter/10.1007/978-3-031-43996-4_3">Paper</a>] [<a href="https://github.com/franciszchen/SCA-Net">Code</a>]</li>
 </ul>
 <img border="0" src="research-3-surgery.jpg" width="1200" height="600">
 <hr />
@@ -63,8 +64,8 @@ Besides the diganosis and surgery, our research is exploring on medical foundati
 </ul>
 <img border="0" src="research-4-foundation.jpg" width="800" height="400">
 
-
-
-
-
-              
+<style>
+span2 {
+color: #085DB3;
+ }
+</style>
